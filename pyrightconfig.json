@@ -1,0 +1,30 @@
+{
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Windows",
+  "venvPath": ".",
+  "extraPaths": [
+    "backend",
+    "frontend",
+    "frontend/pages",
+    "frontend/pages/reports",
+    "frontend/theme"
+  ],
+  "executionEnvironments": [
+    {
+      "root": "backend",
+      "extraPaths": [
+        "backend"
+      ]
+    },
+    {
+      "root": "frontend",
+      "extraPaths": [
+        "frontend",
+        "frontend/pages",
+        "frontend/pages/reports",
+        "frontend/theme"
+      ]
+    }
+  ],
+  "pythonInterpreterPath": "C:/Users/Acer/AppData/Local/Programs/Python/Python312/python.exe"
+}

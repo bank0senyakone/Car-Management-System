@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./backend",
+        "./frontend",
+        "./frontend/pages",
+        "./frontend/pages/reports",
+        "./frontend/theme"
+    ],
+    "workbench.colorTheme": "Dracula Theme"
+}
